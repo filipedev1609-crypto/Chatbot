@@ -1,2 +1,2 @@
 # Chatbot
-Chatbot web, utilizando Python para Backend, Ttypescript, React e HTML5 e CSS3 
+Chatbot web, utilizando Python para Backend, Typescript, React e HTML5 e CSS3 
